@@ -1,1 +1,7 @@
+Volatility is an excellent tool for reviewing memory images. Using this tool, you have to possibility of identifying bad processes, suspicous parent-child relationships, orphaned processes, suspcious process objects, network artifacts, malware techniques like DLL injection, process hollowing, and even more. Here, I will briefly walk through a memory image where I find an odd executable running. Using some volatility plugins, I will quickly verify my suspicions.
+
+### 1. PsList & PsScan
+
+
+3. PsTree
 
