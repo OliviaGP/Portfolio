@@ -6,8 +6,8 @@ I will initially organize this compendium by initial detection followed by the v
 ### Detection
 Firewalls, IDS, logs (system, security, application, or custom)
 
-### Network Investigations
-Tcpdump, wireshark
+### Network
+Tcpdump, wireshark, Nmap, smbclient rpcclient
 
 ### Cloud Investigations
 s3logparse, bucket_finder.rb
